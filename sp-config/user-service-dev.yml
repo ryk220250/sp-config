@@ -5,12 +5,16 @@ sp:
 spring:
   application:
     name: user-service
+<<<<<<< HEAD
   rabbitmq:
     host: 192.168.186.137
     port: 5672
     username: admin
     password: admin
    
+=======
+    
+>>>>>>> refs/remotes/origin/master
 server:
   port: 8101
 
